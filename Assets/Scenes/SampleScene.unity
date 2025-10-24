@@ -74799,6 +74799,8 @@ MonoBehaviour:
   gravidade: 20
   controleNoAr: 1.4
   cameraJogador: {fileID: 963194228}
+  noclip: 122
+  velocidadeNoclip: 50
 --- !u!1 &2131293161
 GameObject:
   m_ObjectHideFlags: 0
