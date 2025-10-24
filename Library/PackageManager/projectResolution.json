@@ -48,6 +48,16 @@
       "source": "builtin",
       "testable": false
     },
+    "com.unity.postprocessing@3.5.1": {
+      "name": "com.unity.postprocessing",
+      "displayName": "Post Processing",
+      "resolvedPath": "D:\\Unity\\Projects\\My project (5)\\Library\\PackageCache\\com.unity.postprocessing@4a41da475b74",
+      "fingerprint": "4a41da475b743ff131a9cfa5fdb2ff80d2c0f2d4",
+      "editorCompatibility": "2019.4.19f1",
+      "version": "3.5.1",
+      "source": "registry",
+      "testable": false
+    },
     "com.unity.timeline@1.8.9": {
       "name": "com.unity.timeline",
       "displayName": "Timeline",
